@@ -1,0 +1,9 @@
+product_id,total_orders,total_quantity,total_revenue,product_name,category,revenue_share_pct
+102,12,24,59976,Mechanical Keyboard,Electronics,34.4
+107,10,14,41986,Bluetooth Speaker,Electronics,24.1
+108,3,3,22497,Office Chair,Furniture,12.9
+105,8,16,20784,Desk Lamp,Home,11.9
+103,3,6,10794,USB-C Hub,Electronics,6.2
+104,13,22,7678,Notebook Pack,Stationery,4.4
+101,5,9,7191,Wireless Mouse,Electronics,4.1
+106,5,6,3594,Water Bottle 1L,Home,2.1

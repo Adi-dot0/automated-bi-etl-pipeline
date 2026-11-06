@@ -1,0 +1,13 @@
+customer_id,customer_name,city,email,signup_date,total_orders,total_spend,first_order,last_order,segment
+1,Aarav Sharma,Delhi,aarav@gmail.com,2025-11-02,7,19339,2026-08-03,2026-10-21,Premium
+2,Priya Singh,Mumbai,priya.singh@yahoo.in,2025-12-10,4,10993,2026-08-04,2026-10-08,Premium
+3,Rahul Verma,Pune,rahul.verma@gmail.com,2026-01-05,10,40484,2026-08-09,2026-10-18,Premium
+4,Sneha Patel,Ahmedabad,sneha@gmail.com,2026-01-20,4,7544,2026-08-03,2026-09-03,Regular
+5,Amit Kumar,Lucknow,amit.kumar@gmail.com,2026-02-01,3,8447,2026-09-12,2026-10-08,Regular
+6,Neha Gupta,Delhi,neha.gupta@gmail.com,2026-02-14,5,11390,2026-08-12,2026-10-02,Premium
+7,Vikram Singh,Jaipur,vikram@outlook.com,2026-03-03,5,17690,2026-08-15,2026-10-10,Premium
+8,Ananya Roy,Kolkata,ananya.roy@gmail.com,2026-03-18,7,25889,2026-08-09,2026-10-26,Premium
+9,Rohit Mehta,Surat,rohit@gmail.com,2026-04-02,5,10039,2026-08-03,2026-10-19,Premium
+10,Kavita Joshi,Indore,kavita@gmail.com,2026-05-11,3,6797,2026-08-15,2026-10-17,Regular
+11,Arjun Nair,Kochi,arjun.nair@gmail.com,2026-06-07,1,349,2026-09-10,2026-09-10,New
+12,Divya Iyer,Chennai,divya.iyer@gmail.com,2026-07-15,5,15539,2026-08-07,2026-10-18,Premium

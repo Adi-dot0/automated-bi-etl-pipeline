@@ -1,0 +1,1 @@
+{"alerts":{"high_value_customer_threshold_inr":15000,"min_monthly_revenue_inr":10000,"revenue_drop_pct_limit":20},"database":"data_warehouse.db","pipeline_name":"automated-bi-etl-pipeline","power_bi":{"refresh_note":"Power BI refresh depends on dataset type, licence and gateway. See power_bi/POWER_BI_GUIDE.md"}}

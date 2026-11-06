@@ -1,0 +1,6 @@
+ALERT: Revenue dropped 50.1% in 2026-10 (more than the 20% limit). Revenue is now Rs 41,680.
+ALERT: High-value customer: Aarav Sharma (ID 1) total spend Rs 19,339.
+ALERT: High-value customer: Rahul Verma (ID 3) total spend Rs 40,484.
+ALERT: High-value customer: Vikram Singh (ID 7) total spend Rs 17,690.
+ALERT: High-value customer: Ananya Roy (ID 8) total spend Rs 25,889.
+ALERT: High-value customer: Divya Iyer (ID 12) total spend Rs 15,539.

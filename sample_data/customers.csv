@@ -1,0 +1,13 @@
+customer_id,customer_name,city,email,signup_date
+1,Aarav Sharma,Delhi,aarav@gmail.com,2025-11-02
+2,Priya Singh,Mumbai,priya.singh@yahoo.in,2025-12-10
+3,Rahul Verma,Pune,rahul.verma@gmail.com,2026-01-05
+4,Sneha Patel,Ahmedabad,sneha@gmail.com,2026-01-20
+5,Amit Kumar,Lucknow,amit.kumar@gmail.com,2026-02-01
+6,Neha Gupta,Delhi,neha.gupta@gmail.com,2026-02-14
+7,Vikram Singh,Jaipur,vikram@outlook.com,2026-03-03
+8,Ananya Roy,Kolkata,ananya.roy@gmail.com,2026-03-18
+9,Rohit Mehta,Surat,rohit@gmail.com,2026-04-02
+10,Kavita Joshi,Indore,kavita@gmail.com,2026-05-11
+11,Arjun Nair,Kochi,arjun.nair@gmail.com,2026-06-07
+12,Divya Iyer,Chennai,divya.iyer@gmail.com,2026-07-15
